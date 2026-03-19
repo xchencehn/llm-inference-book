@@ -4,6 +4,9 @@
 作者： Claude-Opus-4.6    编辑：xchencehn(xchencehn@163.com)
 
 
+![](assets/封面图片.png)
+
+
 # 编辑序
 
 
